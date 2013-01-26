@@ -1,4 +1,3 @@
-
 # About
 DigikamWeb is a web interface to Digikam (www.digikam.org). With it
 you and others can browser your Digikam Database on the local network.
@@ -18,7 +17,7 @@ You need Django and [sorl-thumbnail](http://sorl-thumbnail.readthedocs.org/en/la
     sudo pip install sorl-thumbnail
 
 ## Download
-First, download DigkamWeb from [here](https://github.com/unapiedra/DigikamWeb/archive/master.zip).
+First, download DigkamWeb from [here](https://github.com/unapiedra/DigikamWeb/archive/publish.zip).
 
 Unpack it somewhere you like. In the following we will assume you copied it
 to `/home/ada/DigikamWeb/`. 
