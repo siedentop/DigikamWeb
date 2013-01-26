@@ -1,0 +1,24 @@
+http://photo.stackexchange.com/users/8540/lester-cheung <-- Wants webfrontend for lightroom (sqlite) for friends to do the tagging.
+
+Specs: 
+
+Need authentication 
+and secret-link sharing.
+Need Group and User rights
+
+Tagging (Apply Tag to single image, selection of images, create new tag, edit tag, delete tags from image, delete tag)
+
+Backup support
+cluster support
+
+# OTHER IDEAS:
+  Video cut machine. 
+  Timelapse function:
+    load tons of files
+    run ffmpeg or something on it.
+    class Timelapse:
+      headerinfo (name, date, time)
+      config (fps (or variable timescale?), resolution, outputformat, etc..)
+      sorted list of images
+      result (resulting video file)
+  
